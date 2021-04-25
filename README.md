@@ -1,14 +1,10 @@
 # GoogleAnalyticsJavaDemo
 
----
-
 ## Description
 
 Updated example of the Google Analytics Reporting API java quickstart from [here](https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart/service-java)
 
 I found some parts of the code were out of date and nonfunctional (as of April 2021), so I've written this updated sample with some additional comments.
-
----
 
 ## Problem
 
@@ -23,8 +19,6 @@ ReactGA.event({
     label: 'Pizza',
 });
 ```
-
----
 
 ## Building & Testing Google Analytics Queries
 
